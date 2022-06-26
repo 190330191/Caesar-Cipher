@@ -1,4 +1,4 @@
-LETTERS = 'abcdefghijklmnopqrstuvwxyz'
+LETTERS = input("")
 
 def encrypt(initial, shift):
   """ Use : encrypt("message", 98)
