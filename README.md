@@ -141,9 +141,3 @@ a  | Decrypted text
 The only text that makes sense is zattackz so we can deduce that the key is 21 (25 - b = 21).
 
 **DEXXEGOD** is decrypted with the function **f(x) = 1x - 4** or **f(x) = 1x + 21** and becomes **ZATTACKZ**.
-
-# Implementations
-
-Language   | Encrypt                             | Decrypt
----------- | ----------------------------------- | ----------------------------
-Python     | [encrypt.py](py/encrypt.py)         | [decrypt.py](py/decrypt.py)
