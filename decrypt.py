@@ -1,4 +1,4 @@
-LETTERS = 'abcdefghijklmnopqrstuvwxyz'
+LETTERS = input("")
 
 def decrypt(initial, shift):
   """ Use : decrypt('gymmuay', 98)
